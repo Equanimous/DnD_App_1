@@ -1,0 +1,1 @@
+This project will be a first attempt at creating a useful desktop application for the purposes of condensing a significant amount of information across several DnD books and provide a good ui with which to access it
